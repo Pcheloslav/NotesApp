@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="notes">Notes</string>
+    <string name="search">Search</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title">title</string>
+    <string name="notetext">notetext</string>
+    <string name="pick_color">Pick Color</string>
+    <string name="action_settings">sql</string>
+    <string name="internal">internal</string>
+    <string name="sql">sql</string>
+</resources>
